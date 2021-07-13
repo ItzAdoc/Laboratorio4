@@ -2,9 +2,9 @@
 
 __1. Objetivos__
 
-*Objetivos Generales*
-* a
-* b
+*Objetivo General*
+* Comprobar experimentalmente el Teorema de Superposición.
+* 
 
 *Objetivos Específicos*
 * a
