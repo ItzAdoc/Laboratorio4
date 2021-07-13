@@ -41,6 +41,10 @@ __*4.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y
 
 ![](https://github.com/ItzAdoc/ImagenesT4/blob/main/4.png)
 
+__Tabla 4.1. Medición de voltaje aplicando superposición.__
+
+__Tabla 4.2. Medición de voltaje aplicando superposición.__
+
 __*4.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.*__
 
 
