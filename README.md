@@ -43,7 +43,7 @@ Sumamos las resistencias ya que están en serie y obtenemos la resistencia total
 
 Paso Nº5. 
 
-Ya que tenemos la corriente total aplicamos la ley de división de corriente para determinar la corriente que circula por la resistencia de 820 ohmios, la cual será la misma para las 3 resistencias (820 Ω, 470 Ω y 2.2k Ω) y con ello aplicar la ley de ohm y obtener VA.
+Ya que tenemos la corriente total aplicamos la ley de división de corriente para determinar la corriente que circula por la resistencia de 820 ohmios y con ello aplicar la ley de ohm y obtener VA.
 
 ![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P5.PNG)
 
