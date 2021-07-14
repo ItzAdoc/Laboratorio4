@@ -52,6 +52,58 @@ Al reemplazar la fuente de 12V por un cortocircuito hace que la resistencia sea 
 
 ![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P6.PNG)
 
+Paso Nº7.
+
+Hacemos “cero” la fuente de voltaje de 20 v.
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P7.PNG)
+
+Paso Nº8.
+
+Se saca a resistencia equivalente de 1k Ω y 2.2k Ω que están en paralelo.
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P8.PNG)
+
+Paso Nº9.
+
+Sumamos las resistencias que están en serie y nos da como resultado 2 resistencias en paralelo, con estas finalmente sacamos RT
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P9.PNG)
+
+Paso Nº10.
+
+Aplicamos ley de ohm para obtener la corriente total 
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P10.PNG)
+
+Paso Nº11.
+
+Aplicamos la ley de división de corriente para hallar Ix que es la misma corriente que circula por la resistencia de 470 ohmios y la corriente que pasa por VA.
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P11.PNG)
+
+Paso Nº12.
+
+Una vez obtenida la corriente que circula por VA aplicamos ley de ohm para obtener su voltaje.
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P12.PNG)
+
+Paso Nº13.
+
+Se suma o resta los valores obtenidos para encontrar el valor definitivo 
+
+Para VA
+
+Al tener sentidos opuestos de circulación de voltaje se resta los resultados
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P13.PNG)
+
+Para IX
+
+Al tener sentidos opuestos de circulación de corriente se resta los resultados
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P14.PNG)
+
 __4. Respuesta a Interrogantes y Calculo de Error__
 
 __*4.1. Arme el circuito que se muestra en la figura 4.1.*__
@@ -75,12 +127,18 @@ __*4.4. Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y
 
 __Tabla 4.1. Medición de voltaje aplicando superposición.__
 
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/Tabla1.PNG)
+
 __Tabla 4.2. Medición de voltaje aplicando superposición.__
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/Tabla1.PNG)
 
 __*4.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.*__
 
 
 Cálculo de Error
+
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P15.PNG)
 
 
 
