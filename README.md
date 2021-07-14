@@ -16,25 +16,40 @@ __2. Marco Teórico__
 __3. Explicación del Procedimiento__
 
 Paso Nº1.  
+
 Se hace “cero” la fuente de voltaje de 12V.
 
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P1.PNG)
+
 Paso Nº2. 
+
 Hacemos la transformación de delta a estrella en las resistencias de 2.2k Ω, 820 Ω y 470 Ω 
 
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P2.PNG)
+
 Paso 3. 
+
 Se hace la resistencia equivalente entre la resistencia R2 y R3 que están en paralelo.
 
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P3.PNG)
+
 Paso N4. 
+
 Sumamos las resistencias ya que están en serie y obtenemos la resistencia total. Con este dato obtenemos la corriente total.
 
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P4.PNG)
 
 Paso Nº5. 
+
 Ya que tenemos la corriente total aplicamos la ley de división de corriente para determinar la corriente que circula por la resistencia de 820 ohmios, la cual será la misma para las 3 resistencias (820 Ω, 470 Ω y 2.2k Ω) y con ello aplicar la ley de ohm y obtener VA.
 
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P5.PNG)
+
 Paso Nº6. 
+
 Al reemplazar la fuente de 12V por un cortocircuito hace que la resistencia sea 0 y la corriente va a elegir el camino más fácil y este es el cable que hace que el circuito este en corto, por lo tanto, evitara pasar por las resistencias de: 2.2kΩ  y 470Ω
 
-
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P6.PNG)
 
 __4. Respuesta a Interrogantes y Calculo de Error__
 
