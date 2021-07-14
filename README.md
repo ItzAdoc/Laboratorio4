@@ -87,7 +87,7 @@ __5. Video__
 
 
 __6. Coclusiones__ 
-* El teorema de superposición se usa generalmente cuando un circuito tiene más de una fuente de alimentación, ya que, nos ayuda a simplificar los circuitos y que con ello sean más fáciles de analizar y obtener voltajes y/o corrientes debido a que no es  necesario usar determinantes o álgebra de matrices.
+* El teorema de superposición se usa generalmente cuando un circuito tiene más de una fuente de alimentación, ya que, nos ayuda a simplificar los circuitos y que con ello sean más fáciles de analizar y obtener voltajes y/o corrientes, debido a que no es necesario usar determinantes o álgebra de matrices.
 * 
 
 
