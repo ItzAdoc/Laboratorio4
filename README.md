@@ -4,16 +4,13 @@ __1. Objetivos__
 
 *Objetivo General*
 * Comprobar experimentalmente el Teorema de Superposición.
-* 
 
 *Objetivos Específicos*
-* a
-* b
-* c
-* d
+
+* Calcular voltajes, corrientes, resistencias en circuitos eléctricos por medio del teorema de superposición.
+* Comparar los valores medidos con los calculados. 
 
 __2. Marco Teórico__ 
-
 
 
 __3. Explicación del Procedimiento__
@@ -58,7 +55,8 @@ __5. Video__
 
 
 __6. Coclusiones__ 
-
+* El teormea de superposcion se usa generalmente cuadno un ciruito tiene mas de 1 fuente de alimentación, ya que, nos ayuda a simplificar los circuitos y que con ello sean mas faciles de analizar y obtener voltajes, corrientes o resistencias
+* 
 
 
 __7. Bibliografía__
