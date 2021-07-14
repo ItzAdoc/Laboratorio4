@@ -7,7 +7,7 @@ __1. Objetivos__
 
 *Objetivos Específicos*
 
-* Calcular voltajes, corrientes, resistencias en circuitos eléctricos por medio del teorema de superposición.
+* Calcular voltajes y corrientes en circuitos eléctricos por medio del teorema de superposición.
 * Comparar los valores medidos con los calculados. 
 
 __2. Marco Teórico__ 
@@ -88,7 +88,6 @@ __5. Video__
 
 __6. Coclusiones__ 
 * El teorema de superposición se usa generalmente cuando un circuito tiene más de una fuente de alimentación, ya que, nos ayuda a simplificar los circuitos y que con ello sean más fáciles de analizar y obtener voltajes y/o corrientes, debido a que no es necesario usar determinantes o álgebra de matrices.
-* 
-
+* Los valores medidos variaran en pequeña medida con respecto a los valores calculados, debido a 2 factores: El primero es que al momento de calcular no se toma en cuenta todos los decimales y el segundo es la intervención de las resistencias internas de los instrumentos de medida.
 
 __7. Bibliografía__
