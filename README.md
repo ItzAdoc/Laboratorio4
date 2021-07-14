@@ -13,6 +13,7 @@ __1. Objetivos__
 __2. Marco Teórico__ 
 
 
+
 __3. Explicación del Procedimiento__
 
 Paso Nº1.  
@@ -91,3 +92,5 @@ __6. Coclusiones__
 * Los valores medidos variaran en pequeña medida con respecto a los valores calculados, debido a 2 factores: El primero es que al momento de calcular no se toma en cuenta todos los decimales y el segundo es la intervención de las resistencias internas de los instrumentos de medida.
 
 __7. Bibliografía__
+
+* Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
