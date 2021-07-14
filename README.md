@@ -12,7 +12,7 @@ __1. Objetivos__
 
 __2. Marco Teórico__ 
 
-
+![](https://github.com/ItzAdoc/ImagenesT4/blob/main/Marco4.jpeg)
 
 __3. Explicación del Procedimiento__
 
