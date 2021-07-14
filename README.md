@@ -135,7 +135,7 @@ __Tabla 4.2. Medición de voltaje aplicando superposición.__
 
 __*4.5. Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones.*__
 
-
+El teorema de superposición se cumple para este circuito, y se concluyó:
 Cálculo de Error
 
 ![](https://github.com/ItzAdoc/ImagenesT4/blob/main/P15.PNG)
